@@ -7,3 +7,7 @@
 #!/bin/bash
 
 echo "Hello Codecademy!"
+
+
+phrase="Hello to you!"
+echo $phrase
